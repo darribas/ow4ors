@@ -34,6 +34,7 @@ footer {
 .manuscript {
     font-family: 'Crimson Text', 'serif';
     font-size:16px;
+    font-weight:100;
     line-height:25px;
 }
 
