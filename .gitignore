@@ -1,0 +1,4 @@
+# Avoid pushing compiled pdf and Word files
+
+*.pdf
+*.doc
