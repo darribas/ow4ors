@@ -6,3 +6,9 @@ pdf:
 
 doc:
 	pandoc -s -S --biblio refs.bib --csl apa.csl ow4ors.md -o ow4ors.doc
+
+count:
+	pandoc -s -S --biblio refs.bib --csl apa.csl ow4ors.md -o ow4ors.tex
+	texcount ow4ors.tex
+	rm ow4ors.tex
+
