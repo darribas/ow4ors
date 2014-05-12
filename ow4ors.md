@@ -20,7 +20,7 @@ However, not much thought usually goes into the design and adoption of a *good*
 workflow, let alone of an *open* one. Rather, it is something seldom taught
 in school that the student (i.e. future researcher/scientist) is usually
 expected to "just know", as if its acquisition and learning curve were non-existent
-or just surpased by simply enrolling in a PhD program. 
+or just surpassed by simply enrolling in a PhD program. 
 
 Thinking and designing a good open workflow is not
 (only) about tool choice. It is much more about shaping every aspect of how we carry out
@@ -38,7 +38,7 @@ self-interested minds will find they are more efficient in the long run, make co
 easier and appear as an invaluable sanity keeper when it is required to revisit a research project after some
 time. 
 However, the true advantages become clear
-when one considers the colective benefits of an open workflow culture.
+when one considers the collective benefits of an open workflow culture.
 A structured and documented process facilitates the transition from
 private to public, lowering the barriers to publish and share with the
 wider community; transparency and reproducibility make it easier for scientists to
@@ -52,7 +52,7 @@ effort to master; however, its benefits clearly exceed its costs.
 Today, we know how Galileo Galilei made his discoveries because he kept detailed
 research diaries of his steps. We need to ensure the researchers of tomorrow
 will be able to look back and be able to reconstruct how we
-reached the insights that have made regional science a meaninful discipline. The
+reached the insights that have made regional science a meaningful discipline. The
 answer definitely lies in a more open regional science; but that can only
 happen with more open workflows.
 
