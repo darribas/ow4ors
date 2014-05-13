@@ -8,7 +8,8 @@ software (open source), manage data (open data), carry out modeling
 experiments (open modeling), collaborate (open collaboration) and distribute
 their results (open publishing).
 I could not agree more with both Rey's principles and his view of the
-current state of affairs in Regional Science. In this piece[^1], I would like to add to his plea to
+current state of affairs in Regional Science (and many other Social Sciences such as economics or geography, to be fair). 
+In this piece[^1], I would like to add to his plea to
 "go open" with a component of open science that, although not explicitly mentioned in the 
 address, underlies most of its philosophy: open workflows.
 
@@ -24,13 +25,13 @@ or just surpassed by simply enrolling in a PhD program.
 
 Thinking and designing a good open workflow is not
 (only) about tool choice. It is much more about shaping every aspect of how we carry out
-research, from idea generation to its implementation to its dissemination, in a 
+research, from the inception of the idea to its development (e.g. data collection and analysis) to its dissemination, in a 
 way that can easily be captured, made transparent and, if need be, reproduced again in
 the future. Tools, of course, play a big role in enhancing (or dampening) this
 process. Some have been designed from the ground up with these principles in
 mind and thus embody them much better than others created under different premises.
 In any case, the umbrella of the workflow covers beyond the simple choice of one 
-piece of software over another.
+piece of software over another and focuses much more on documenting the endeavor itself.
 
 Besides their better alignment with the scientific ethos, there are plenty of practical
 reasons for adopting open workflows. Purely
