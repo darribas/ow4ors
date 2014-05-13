@@ -12,7 +12,7 @@ current state of affairs in Regional Science. In this piece[^1], I would like to
 "go open" with a component of open science that, although not explicitly mentioned in the 
 address, underlies most of its philosophy: open workflows.
 
-The concept of a workflow is something us regional scientists can all relate to,
+The concept of a workflow is something regional scientists can all relate to,
 even though we might not realize straight away. After all, we all have a
 particular set of habits, techniques and tools we use to carry out the diverse
 activities that involve being a modern scholar.
@@ -43,8 +43,7 @@ A structured and documented process facilitates the transition from
 private to public, lowering the barriers to publish and share with the
 wider community; transparency and reproducibility make it easier for scientists to
 fully grasp the methods and results of peers, even when they do not know each
-other; modularity and portability allow to reuse components from project to 
-project, avoiding "reinventing the wheel".
+other; modularity and portability allow reuse of components between projects, avoiding "reinventing the wheel".
 
 A good open workflow is not something one "just knows". As most
 things in life worth pursuing, it takes interest and some 
